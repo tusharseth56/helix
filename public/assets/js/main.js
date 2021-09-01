@@ -1,6 +1,6 @@
 /**
-* Template Name: Medilab - v2.1.1
-* Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
+* Template Name: Helix - v2.1.1
+* Template URL: https://bootstrapmade.com/Helix-free-medical-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
