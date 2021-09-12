@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index'); 
 });
+
+Route::get('test', 'TestController@getTestPage');
+Route::post('addAccount', 'TestController@addAcount')->name('addAccount');
