@@ -8,7 +8,7 @@
  <section id="hero" class="d-flex align-items-center">
     <div class="container">
       <h1>Welcome to Helix</h1>
-      <h2>has the largest network of labs and the only lab to have a pan-India presence
+      <h2>Helix has the largest network of labs and the only lab to have a pan-India presence
       </h2>
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
     </div>
